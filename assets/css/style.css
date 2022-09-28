@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Roboto', sans-serif;
+    }
+
+    .col{
+        position: relative;
+        display: inline-block;
+    }
+    .descripcion{
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
